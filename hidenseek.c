@@ -36,15 +36,5 @@ void main(){
         printf("You loose");
     }else{
         printf("You loose");
-    }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    }     
 }
