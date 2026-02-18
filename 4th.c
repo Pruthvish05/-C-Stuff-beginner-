@@ -8,7 +8,7 @@ int main(){
         printf("It's in UpperCase");
      }
     else if(ch >= 'A' && ch <= 'Z'){
-        printf("It's UpperCase");
+        printf("It's LowerCase");
     }
     else {
         printf("Invalid Letter of English");
